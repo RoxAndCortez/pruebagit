@@ -12,3 +12,6 @@ package pruebagit.entidades;
 public class Cliente {
     
 }
+https://www.youtube.com/playlist?list=PL8PA79VfAV0gWMQKQNVWIXUqN7EdyJpm0
+https://www.youtube.com/playlist?list=PL8PA79VfAV0jtMAOHcwY-AHSh4h8V8grL
+https://www.youtube.com/playlist?list=PL8PA79VfAV0gZdbgJnkWOFh8JyzanUcJZ
